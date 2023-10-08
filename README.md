@@ -11,8 +11,22 @@
     src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
     style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
-  https://orcid.org/0000-0001-5474-2649
+  Andrew James Steinmetz
 </a>
+
+### Education
+
+* PhD. Physics. University of Arizona, 2023 (pending)
+* MS. Physics. University of Arizona, 2023 (pending)
+* BS. Physics. University of Arizona, 2014
+* BS. Chemical Engineering. University of Arizona, 2014
+
+### Employment
+
+* Lecturer. Pima Community College, Department of Physics & Astronomy. 2020-current
+* Teaching Assistant. University of Arizona, Department of Chemistry & Biochemistry. 2019-2023
+* Teaching Assistant. University of Arizona, Department of Physics. 2015-2019
+* Research Assistant. University of Arizona, Department of Physics. 2014-2017
 
 ### Publications
 
