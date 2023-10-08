@@ -25,8 +25,8 @@
 
 * Lecturer. Pima Community College, Department of Physics & Astronomy. 2020-current
 * Teaching Assistant. University of Arizona, Department of Chemistry & Biochemistry. 2019-2023
-* Teaching Assistant. University of Arizona, Department of Physics. 2015-2019
-* Research Assistant. University of Arizona, Department of Physics. 2014-2017
+* Teaching Assistant. University of Arizona, Department of Physics. 2017-2019
+* Research Assistant. University of Arizona, Department of Physics. 2015-2017
 
 ### Publications
 
