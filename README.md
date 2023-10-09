@@ -14,21 +14,21 @@
   Andrew James Steinmetz
 </a>
 
-### Education
+### Education 🍎
 
 * PhD. Physics. University of Arizona, 2023 (pending)
 * MS. Physics. University of Arizona, 2023 (pending)
 * BS. Physics. University of Arizona, 2014
 * BS. Chemical Engineering. University of Arizona, 2014
 
-### Employment
+### Employment ⚒
 
 * Lecturer. Pima Community College, Department of Physics & Astronomy. 2020-current
 * Teaching Assistant. University of Arizona, Department of Chemistry & Biochemistry. 2019-2023
 * Teaching Assistant. University of Arizona, Department of Physics. 2017-2019
 * Research Assistant. University of Arizona, Department of Physics. 2015-2017
 
-### Publications
+### Publications 📚
 
 * Yang, C. T., Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
 * 🌟<b>Steinmetz, A.</b> Doctoral dissertation. University of Arizona, 2023. <a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">ajsteinmetz/thesis-ajsteinmetz</a>
