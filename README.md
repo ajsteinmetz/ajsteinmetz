@@ -42,6 +42,12 @@
 * Formanek, M., Stefan, E., Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>Plas. Phys. Cont. Fus.</i> 60.7 (2018). <a href="https://doi.org/10.1088/1361-6587/aac06a">10.1088/1361-6587/aac06a</a>
 * Rafelski, J., Formanek, M. & 🌟<b>Steinmetz, A.</b> <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
 
+### Links
+
+* [Inspire HEP](https://inspirehep.net/authors/1796313)
+* [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ)
+* [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
+
 <!--
 **ajsteinmetz/ajsteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
