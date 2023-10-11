@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a physicist! 🔭
+### Hi there 👋 I'm a physicist!
 
 <a
   id="cy-effective-orcid-url"
