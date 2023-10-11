@@ -32,6 +32,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Publications 📚
 
+* Evans, S., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
 * Yang, C. T., Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
 * 🌟<b>Steinmetz, A.</b> Doctoral dissertation. University of Arizona, 2023. <a href="https://github.com/ajsteinmetz/thesis-ajsteinmetz">ajsteinmetz/thesis-ajsteinmetz</a>
 * Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>arXiv preprint</i> <a href="https://arxiv.org/abs/2309.15797">arXiv:2309.15797 [hep-ph]</a> (2023).
