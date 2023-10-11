@@ -42,7 +42,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 * Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>Phys. Rev. D</i> 102.5 (2020): 056015. <a href="https://doi.org/10.1103/PhysRevD.102.056015">10.1103/PhysRevD.102.056015</a>
 * Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>Plas. Phys. Cont. Fus.</i> 61.8 (2019): 084006. <a href="https://doi.org/10.1088/1361-6587/ab242e">10.1088/1361-6587/ab242e</a>
 * 🌟<b>Steinmetz, A.</b>, Formanek, M. & Rafelski, J. <i>Eur. Phys. J. A</i> 55, 40 (2019). <a href="https://doi.org/10.1140/epja/i2019-12715-5">10.1140/epja/i2019-12715-5</a>
-* Formanek, M., Stefan, E., Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>Plas. Phys. Cont. Fus.</i> 60.7 (2018). <a href="https://doi.org/10.1088/1361-6587/aac06a">10.1088/1361-6587/aac06a</a>
+* Formanek, M., Evans, S., Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>Plas. Phys. Cont. Fus.</i> 60.7 (2018). <a href="https://doi.org/10.1088/1361-6587/aac06a">10.1088/1361-6587/aac06a</a>
 * Rafelski, J., Formanek, M. & 🌟<b>Steinmetz, A.</b> <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
 
 ### Links ⛓
