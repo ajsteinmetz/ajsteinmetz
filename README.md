@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a physicist!
 
 <a
   id="cy-effective-orcid-url"
@@ -13,6 +13,8 @@
     alt="ORCID iD icon"/>
   Andrew James Steinmetz
 </a>
+
+I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments
 
 ### Education 🍎
 
