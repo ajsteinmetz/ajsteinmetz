@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a physicist!
+### Hi there 👋 I'm a physicist! 🔭
 
 <a
   id="cy-effective-orcid-url"
@@ -18,17 +18,17 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Education 🍎
 
-* PhD. Physics. University of Arizona, 2023 (pending)
-* MS. Physics. University of Arizona, 2023 (pending)
-* BS. Physics. University of Arizona, 2014
-* BS. Chemical Engineering. University of Arizona, 2014
+* Ph.D. Physics, University of Arizona. 2023 (pending)
+* MS. Physics, University of Arizona. 2023 (pending)
+* BS. Physics, University of Arizona. 2014
+* BS. Chemical Engineering, University of Arizona. 2014
 
 ### Employment ⚒
 
-* Adjunct Professor. Pima Community College, Physics Dept. & Astronomy Dept. 2020-current
-* Teaching Assistant. University of Arizona, Dept. of Chemistry & Biochemistry. 2019-2023
-* Teaching Assistant. University of Arizona, Dept. of Physics. 2017-2019
-* Research Assistant. University of Arizona, Dept. of Physics. 2015-2017
+* Adjunct Professor. Pima Community College, Physics Dept. & Astronomy Dept. 2020 - Current
+* Teaching Assistant. University of Arizona, Dept. of Chemistry & Biochemistry. 2019 - 2023
+* Teaching Assistant. University of Arizona, Dept. of Physics. 2017 - 2019
+* Research Assistant. University of Arizona, Dept. of Physics. 2015 - 2017
 
 ### Publications 📚
 
