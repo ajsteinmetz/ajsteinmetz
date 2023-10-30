@@ -18,8 +18,8 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Education 🍎
 
-* Ph.D. Physics, University of Arizona. 2023 (pending)
-* MS. Physics, University of Arizona. 2023 (pending)
+* Ph.D. Physics, University of Arizona. 2023
+* MS. Physics, University of Arizona. 2023
 * BS. Physics, University of Arizona. 2014
 * BS. Chemical Engineering, University of Arizona. 2014
 
@@ -33,6 +33,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 ### Publications 📚
 
 * Evans, S., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
+* 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>In preparation</i> (2023).
 * Yang, C. T., Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
 * 🌟<b>Steinmetz, A.</b> Doctoral dissertation. University of Arizona, 2023. <a href="https://arxiv.org/abs/2310.07193">arXiv:2310.07193 [hep-ph]</a>
 * Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>arXiv preprint</i> (2023). <a href="https://arxiv.org/abs/2309.15797">arXiv:2309.15797 [hep-ph]</a>
