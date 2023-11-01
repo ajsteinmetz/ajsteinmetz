@@ -32,9 +32,6 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Publications 📚
 
-* Evans, S., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
-* 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>In preparation</i> (2023).
-* Yang, C. T., Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
 * 🌟<b>Steinmetz, A.</b> Doctoral dissertation. University of Arizona, 2023. <a href="https://arxiv.org/abs/2310.07193">arXiv:2310.07193 [hep-ph]</a>
 * Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>arXiv preprint</i> (2023). <a href="https://arxiv.org/abs/2309.15797">arXiv:2309.15797 [hep-ph]</a>
 * 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>arXiv preprint</i> (2023). <a href="https://arxiv.org/abs/2308.14818">arXiv:2308.14818 [hep-ph]</a>
@@ -45,6 +42,12 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 * 🌟<b>Steinmetz, A.</b>, Formanek, M. & Rafelski, J. <i>Eur. Phys. J. A</i> 55, 40 (2019). <a href="https://doi.org/10.1140/epja/i2019-12715-5">10.1140/epja/i2019-12715-5</a>
 * Formanek, M., Evans, S., Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>Plas. Phys. Cont. Fus.</i> 60.7 (2018). <a href="https://doi.org/10.1088/1361-6587/aac06a">10.1088/1361-6587/aac06a</a>
 * Rafelski, J., Formanek, M. & 🌟<b>Steinmetz, A.</b> <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
+
+### In Preparation ✏️
+
+* Evans, S., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
+* 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>In preparation</i> (2023).
+* Yang, C. T., Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2023).
 
 ### Links ⛓
 
