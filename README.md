@@ -25,7 +25,8 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Employment ⚒
 
-* Adjunct Professor. Pima Community College, Physics Dept. & Astronomy Dept. 2020 - Current
+* Global Professor. University of Arizona, Dept. of Physics. 2023 - Current
+* Adjunct Professor. Pima Community College, Physics Dept. & Astronomy Dept. 2020 - 2023
 * Teaching Assistant. University of Arizona, Dept. of Chemistry & Biochemistry. 2019 - 2023
 * Teaching Assistant. University of Arizona, Dept. of Physics. 2017 - 2019
 * Research Assistant. University of Arizona, Dept. of Physics. 2015 - 2017
