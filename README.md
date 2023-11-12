@@ -19,7 +19,6 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 ### Education 🍎
 
 * PhD. Physics, University of Arizona. 2023
-* MS. Physics, University of Arizona. 2023
 * BS. Physics, University of Arizona. 2014
 * BS. Chemical Engineering, University of Arizona. 2014
 
