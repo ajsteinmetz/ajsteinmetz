@@ -31,7 +31,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 ### Publications 📚
 
 * 🌟<b>Steinmetz, A.</b> Doctoral dissertation. University of Arizona, 2023. <a href="https://arxiv.org/abs/2310.07193">arXiv:2310.07193 [hep-ph]</a>
-* Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>arXiv preprint</i> (2023). <a href="https://arxiv.org/abs/2309.15797">arXiv:2309.15797 [hep-ph]</a>
+* Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>IJMPA</i> (2023). <a href="https://doi.org/10.1142/S0217751X23501634">10.1142/S0217751X23501634</a>
 * 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>arXiv preprint</i> (2023). <a href="https://arxiv.org/abs/2308.14818">arXiv:2308.14818 [hep-ph]</a>
 * Rafelski, J., Birrell, J., 🌟<b>Steinmetz, A.</b> & Yang, C.T. <i>Universe</i> 9.7 (2023): 309. <a href="https://doi.org/10.3390/universe9070309">10.3390/universe9070309</a>
 * Formanek, M., 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>Phys. Rev. A</i> 103.5 (2021): 052218. <a href="https://doi.org/10.1103/PhysRevA.103.052218">10.1103/PhysRevA.103.052218</a>
