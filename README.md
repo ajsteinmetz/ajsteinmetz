@@ -51,7 +51,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Links ⛓
 
-🔗 [Inspire HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+🔗 [UArizona](https://w3.physics.arizona.edu/person/andrew-steinmetz) 🔗 [Inspire HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
 
 <!--
 **ajsteinmetz/ajsteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
