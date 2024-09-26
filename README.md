@@ -31,6 +31,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Publications 📚
 
+* Birrell, J., Grayson, C., Rafelski, J., 🌟<b>Steinmetz, A.</b>, Yang, C. T. <i>arXiv</i> (2024).
 * Birrell, J., Formanek, M., 🌟<b>Steinmetz, A.</b>, Yang, C. T., Rafelski, J. <i>Int J Theor Phys</i> 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 * 🌟<b>Steinmetz, A.</b> Doctoral dissertation. University of Arizona, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a>
 * Rafelski, J., 🌟<b>Steinmetz, A.</b> & Yang, C. T. <i>IJMPA</i> 38.31 (2023): 2350163. <a href="https://doi.org/10.1142/S0217751X23501634">10.1142/S0217751X23501634</a>
@@ -45,7 +46,6 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### In Preparation ✏️
 
-* Birrell, J., Grayson, C., Rafelski, J., 🌟<b>Steinmetz, A.</b>, Yang, C. T. <i>In preparation</i> (2024).
 * 🌟<b>Steinmetz, A.</b>, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. <i>In preparation</i> (2024).
 * 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>In preparation</i> (2024).
 * Evans, S., 🌟<b>Steinmetz, A.</b> <i>In preparation</i> (2024).
