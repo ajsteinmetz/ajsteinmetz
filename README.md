@@ -45,7 +45,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 * Formanek, M., Evans, S., Rafelski, J., 🌟Steinmetz, A. & Yang, C. T. <i>Plas. Phys. Cont. Fus.</i> 60.7 (2018). <a href="https://doi.org/10.1088/1361-6587/aac06a">10.1088/1361-6587/aac06a</a>
 * Rafelski, J., Formanek, M. & 🌟Steinmetz, A. <i>Eur. Phys. J. C</i> 78 (2018): 1-12. <a href="https://doi.org/10.1140/epjc/s10052-017-5493-2">10.1140/epjc/s10052-017-5493-2</a>
 
-🔗 Linked names lead to the GitHub repository for that publication.
+🔗 Linked to publications and GitHub projects, if available, are provided.
 
 ### In Preparation ✏️
 
