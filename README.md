@@ -16,6 +16,8 @@
 
 I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments
 
+My website: https://ajsteinmetz.github.io/
+
 ### Education 🍎
 
 * PhD. Physics, University of Arizona. 2023
