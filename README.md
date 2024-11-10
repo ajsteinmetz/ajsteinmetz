@@ -18,18 +18,18 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 My website: https://ajsteinmetz.github.io/
 
-### Education 🍎
-
-* PhD. Physics, University of Arizona. 2023
-* BS. Physics, University of Arizona. 2014
-* BS. Chemical Engineering, University of Arizona. 2014
-
 ### Employment ⚒
 
 * Global Professor. University of Arizona, Dept. of Physics. 2023 - Current
   * Arizona College of Technology at the Hebei University of Technology (ACT@HEBUT). 2024 - Current
 * Adjunct Faculty. Pima Community College, Physics Dept. & Astronomy Dept. 2020 - 2023
 * Graduate Assistant. University of Arizona, Dept. of Physics & Dept. of Chemistry & Biochemistry. 2015 - 2023
+
+### Education 🍎
+
+* PhD. Physics, University of Arizona. 2023
+* BS. Physics, University of Arizona. 2014
+* BS. Chemical Engineering, University of Arizona. 2014
 
 ### Publications 📚
 
