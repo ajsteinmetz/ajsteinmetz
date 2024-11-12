@@ -1,6 +1,10 @@
-### Hi there 👋 I'm a physicist! 🔭
+### Hi there 👋 I'm Andrew James Steinmetz, a physicist! 🔭
 
-<a
+I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments.
+
+- **Faculty Page**: [https://w3.physics.arizona.edu/person/andrew-steinmetz](https://w3.physics.arizona.edu/person/andrew-steinmetz)
+- **Website**: [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
+- **ORCID**: <a
   id="cy-effective-orcid-url"
   class="underline"
   href="https://orcid.org/0000-0001-5474-2649"
@@ -11,25 +15,22 @@
     src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
     style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
-  Andrew James Steinmetz
+  0000-0001-5474-2649
 </a>
-
-I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments
-
-My website: https://ajsteinmetz.github.io/
 
 ### Employment ⚒
 
-* Global Professor. University of Arizona, Dept. of Physics. 2023 - Current
-  * Arizona College of Technology at the Hebei University of Technology (ACT@HEBUT). 2024 - Current
-* Adjunct Faculty. Pima Community College, Physics Dept. & Astronomy Dept. 2020 - 2023
-* Graduate Assistant. University of Arizona, Dept. of Physics & Dept. of Chemistry & Biochemistry. 2015 - 2023
+- **Global Professor.** Department of Physics, The University of Arizona. _Nov. 2023 – Present_
+- **Global Professor.** Arizona College of Technology, Hebei University of Technology. _Feb. 2024 – Present_
+- **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
+- **Graduate Teaching Assistant.** Department of Chemistry & Biochemistry, The University of Arizona. _Aug. 2019 – May 2023_
+- **Graduate Teaching & Research Assistant.** Department of Physics, The University of Arizona. _Jan. 2015 – May 2020_
 
 ### Education 🍎
 
-* PhD. Physics, University of Arizona. 2023
-* BS. Physics, University of Arizona. 2014
-* BS. Chemical Engineering, University of Arizona. 2014
+- **Doctor of Philosophy (Ph.D.)** in Physics, The University of Arizona. _2015 – 2023_
+- **Bachelor of Science (B.S.)** in Physics, The University of Arizona. _2009 – 2014_
+- **Bachelor of Science (B.S.)** in Chemical Engineering, The University of Arizona. _2009 – 2014_
 
 ### Publications 📚
 
