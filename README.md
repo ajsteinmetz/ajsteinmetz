@@ -2,7 +2,6 @@
 
 I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments.
 
-- **Faculty Page**: [https://w3.physics.arizona.edu/person/andrew-steinmetz](https://w3.physics.arizona.edu/person/andrew-steinmetz)
 - **Website**: [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
 - **ORCID**: <a
   id="cy-effective-orcid-url"
