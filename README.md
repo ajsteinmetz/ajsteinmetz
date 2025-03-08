@@ -3,6 +3,7 @@
 I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments.
 
 - **Website**: [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
+- **Faculty Page**: [https://w3.physics.arizona.edu/person/andrew-steinmetz](https://w3.physics.arizona.edu/person/andrew-steinmetz)
 - **ORCID**: <a
   id="cy-effective-orcid-url"
   class="underline"
@@ -58,13 +59,13 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Links 🔗
 
-| Science 🔗 | Social & Fun 🔗 |
-|--|--|
-| [ORCID](https://orcid.org/0000-0001-5474-2649) |[BlueSky](https://bsky.app/profile/ajsteinmetz.com) |
-| [INSPIRE-HEP](https://inspirehep.net/authors/1796313) | [AstroBin](https://www.astrobin.com/users/djinn/) |
-| [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) | [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) |
-| [arXiv](https://arxiv.org/a/steinmetz_a_1.html) | [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) |
-| [GitHub](https://github.com/ajsteinmetz) | [My Erdős number is 5.](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017) |
-| [Arizona U.](https://w3.physics.arizona.edu/person/andrew-steinmetz) |  |
+* **INSPIRE-HEP**: https://inspirehep.net/authors/1796313 
+* **Google Scholar**: https://scholar.google.com/citations?user=fJBK1GIAAAAJ 
+* **arXiv**: https://arxiv.org/a/steinmetz_a_1.html 
+* **BlueSky**: https://bsky.app/profile/ajsteinmetz.com 
+* **AstroBin**: https://www.astrobin.com/users/djinn/ 
+* **Wikipedia Userpage**: https://en.wikipedia.org/wiki/User:CosmologicalDefect 
+* **LinkedIn**: https://www.linkedin.com/in/ajsteinmetz/ 
+* **My Erdős number is [5](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017).**
 
 ![](https://komarev.com/ghpvc/?username=ajsteinmetz&color=blue)
