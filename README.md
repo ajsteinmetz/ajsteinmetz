@@ -52,8 +52,9 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### In Preparation ✏️
 
-* 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2025).
+* 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>Submitted to EPJ ST</i> (2025). <a href="https://doi.org/10.48550/arXiv.2502.05052">10.48550/arXiv.2502.05052</a>
 * 🌟<b>Steinmetz, A.</b>, Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. <i>In preparation</i> (2025).
+* 🌟<b>Steinmetz, A.</b> & Rafelski, J. <i>In preparation</i> (2025).
 * 🌟<b>Steinmetz, A.</b>, Yang, C. T. & Rafelski, J. <i>In preparation</i> (2025).
 * Evans, S., 🌟<b>Steinmetz, A.</b> <i>In preparation</i> (2025).
 
