@@ -67,6 +67,6 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 * **AstroBin**: https://www.astrobin.com/users/djinn/ 
 * **Wikipedia Userpage**: https://en.wikipedia.org/wiki/User:CosmologicalDefect 
 * **LinkedIn**: https://www.linkedin.com/in/ajsteinmetz/ 
-* **My Erdős number is [5](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017).**
+* **My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017) is 5.**
 
 ![](https://komarev.com/ghpvc/?username=ajsteinmetz&color=blue)
