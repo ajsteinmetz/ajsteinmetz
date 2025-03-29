@@ -34,7 +34,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Publications 📚
 
-* 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. <i>Submitted to EPJ ST</i> (2025). <a href="https://doi.org/10.48550/arXiv.2502.05052">10.48550/arXiv.2502.05052</a>
+* 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. <i>In press EPJ ST</i> (2025). <a href="https://doi.org/10.48550/arXiv.2502.05052">10.48550/arXiv.2502.05052</a>
 * Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. <i>In press EPJ ST</i> (2024). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 * Birrell, J., Formanek, M., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution), Yang, C. T., Rafelski, J. <i>Int J Theor Phys</i> 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 * 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-ajsteinmetz) Doctoral dissertation. University of Arizona, 2023. <a href="http://hdl.handle.net/10150/670301">HDL:10150/670301</a>
