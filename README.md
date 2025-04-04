@@ -18,6 +18,12 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
   0000-0001-5474-2649
 </a>
 
+### Education 🍎
+
+- **Doctor of Philosophy (Ph.D.)** in Physics, The University of Arizona. _2023_
+- **Bachelor of Science (B.S.)** in Physics, The University of Arizona. _2014_
+- **Bachelor of Science (B.S.)** in Chemical Engineering, The University of Arizona. _2014_
+
 ### Employment ⚒
 
 - **Global Professor.** Department of Physics, The University of Arizona. _Nov. 2023 – Present_
@@ -25,12 +31,6 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 - **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
 - **Graduate Teaching Assistant.** Department of Chemistry & Biochemistry, The University of Arizona. _Aug. 2019 – May 2023_
 - **Graduate Teaching & Research Assistant.** Department of Physics, The University of Arizona. _Jan. 2015 – May 2020_
-
-### Education 🍎
-
-- **Doctor of Philosophy (Ph.D.)** in Physics, The University of Arizona. _2023_
-- **Bachelor of Science (B.S.)** in Physics, The University of Arizona. _2014_
-- **Bachelor of Science (B.S.)** in Chemical Engineering, The University of Arizona. _2014_
 
 ### Publications 📚
 
