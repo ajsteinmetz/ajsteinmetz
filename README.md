@@ -28,9 +28,9 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Education 🍎
 
-- **Doctor of Philosophy (Ph.D.)** in Physics, The University of Arizona. _2015 – 2023_
-- **Bachelor of Science (B.S.)** in Physics, The University of Arizona. _2009 – 2014_
-- **Bachelor of Science (B.S.)** in Chemical Engineering, The University of Arizona. _2009 – 2014_
+- **Doctor of Philosophy (Ph.D.)** in Physics, The University of Arizona. _2023_
+- **Bachelor of Science (B.S.)** in Physics, The University of Arizona. _2014_
+- **Bachelor of Science (B.S.)** in Chemical Engineering, The University of Arizona. _2014_
 
 ### Publications 📚
 
