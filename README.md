@@ -20,17 +20,17 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Education 🍎
 
-- **Doctor of Philosophy (Ph.D.)** in Physics, The University of Arizona. _2023_
-- **Bachelor of Science (B.S.)** in Physics, The University of Arizona. _2014_
-- **Bachelor of Science (B.S.)** in Chemical Engineering, The University of Arizona. _2014_
+- **Ph.D.** in Physics, The University of Arizona. _2023_
+- **B.S.** in Physics, The University of Arizona. _2014_
+- **B.S.** in Chemical Engineering, The University of Arizona. _2014_
 
 ### Employment ⚒
 
 - **Global Professor.** Department of Physics, The University of Arizona. _Nov. 2023 – Present_
 - **Global Professor.** Arizona College of Technology, Hebei University of Technology. _Feb. 2024 – Present_
 - **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
-- **Graduate Teaching Assistant.** Department of Chemistry & Biochemistry, The University of Arizona. _Aug. 2019 – May 2023_
-- **Graduate Teaching & Research Assistant.** Department of Physics, The University of Arizona. _Jan. 2015 – May 2020_
+- **Graduate TA.** Department of Chemistry & Biochemistry, The University of Arizona. _Aug. 2019 – May 2023_
+- **Graduate TA & RA.** Department of Physics, The University of Arizona. _Jan. 2015 – May 2020_
 
 ### Publications 📚
 
