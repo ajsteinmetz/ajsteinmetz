@@ -19,7 +19,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Employment ⚒
 
-- **Global Professor.** Department of Physics, The University of Arizona. _Nov. 2023 – Present_
+- [**Global Professor.**](https://w3.physics.arizona.edu/person/andrew-steinmetz) Department of Physics, The University of Arizona. _Nov. 2023 – Present_
 - **Global Professor.** Arizona College of Technology, Hebei University of Technology. _Feb. 2024 – Present_
 - **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
 
@@ -37,18 +37,21 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 * Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution. <i>Eur. Phys. J. ST</i> (in press, 2025). [10.48550/arXiv.2409.19031](https://doi.org/10.48550/arXiv.2409.19031)
 * Birrell, J., Formanek, M., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution), Yang, C. T., Rafelski, J. Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. _Int J Theor Phys_ 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 
-🔗 Publication links and GitHub projects are provided. [See full publication list.](https://ajsteinmetz.github.io/publications.html)
+🔗 [See full publication list.](https://ajsteinmetz.github.io/publications.html)
 
-### Links 🔗
+### Current Teaching ✏️
 
-- **INSPIRE-HEP**: https://inspirehep.net/authors/1796313 
-- **Google Scholar**: https://scholar.google.com/citations?user=fJBK1GIAAAAJ 
-- **arXiv**: https://arxiv.org/a/steinmetz_a_1.html
-- **Faculty Page**: https://w3.physics.arizona.edu/person/andrew-steinmetz
-- **BlueSky**: https://bsky.app/profile/ajsteinmetz.com 
-- **AstroBin**: https://www.astrobin.com/users/djinn/ 
-- **Wikipedia Userpage**: https://en.wikipedia.org/wiki/User:CosmologicalDefect 
-- **LinkedIn**: https://www.linkedin.com/in/ajsteinmetz/ 
+| Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
+|------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
+| PHYS 371   | Quantum Theory                    | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
+| PHYS 381   | Methods in Exp. Physics I         | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
+
+🔗 [See full teaching record.](https://ajsteinmetz.github.io/teaching.html)
+
+### More Links 🔗
+
+- Science 🧪 [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
+- Social & Fun 🎉 [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
 - **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
 
 ![](https://komarev.com/ghpvc/?username=ajsteinmetz&color=blue)
