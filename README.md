@@ -23,6 +23,8 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 - **Global Professor.** Arizona College of Technology, Hebei University of Technology. _Feb. 2024 – Present_
 - **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
 
+🔗 [See full Curriculum Vitae.](https://ajsteinmetz.github.io/cv.html)
+
 ### Education 🍎
 
 - **Ph.D.** in Physics, The University of Arizona. _2023_
@@ -36,13 +38,6 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 * Birrell, J., Formanek, M., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fermi-distribution), Yang, C. T., Rafelski, J. Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. _Int J Theor Phys_ 63, 163 (2024). [10.1007/s10773-024-05695-8](https://doi.org/10.1007/s10773-024-05695-8)
 
 🔗 Publication links and GitHub projects are provided. [See full publication list.](https://ajsteinmetz.github.io/publications.html)
-
-### In Preparation ✏️
-
-- 🌟Steinmetz, A., Evans, S., Formanek, M., Grayson, C., Labun, L., Price, W., Rafelski, J. (in preparation, 2025).
-- 🌟Steinmetz, A., Rafelski, J. (in preparation, 2025).
-- 🌟Steinmetz, A., Yang, C. T., Rafelski, J. (in preparation, 2025).
-- Evans, S., 🌟Steinmetz, A. (in preparation, 2025).
 
 ### Links 🔗
 
