@@ -19,7 +19,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Employment ⚒
 
-- [**Global Professor.**](https://w3.physics.arizona.edu/person/andrew-steinmetz) Department of Physics, The University of Arizona. _Oct. 2023 – Present_
+- [**Global Professor.**](https://w3.physics.arizona.edu/person/andrew-steinmetz) Department of Physics, The University of Arizona. _Nov. 2023 – Present_
 - **Global Professor.** Arizona College of Technology, Hebei University of Technology. _Feb. 2024 – Present_
 - **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
 
