@@ -19,8 +19,8 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Employment ⚒
 
-- **Global Professor.** Department of Physics, The University of Arizona. _Nov. 2023 – July 2025_
 - **Global Professor.** Arizona College of Technology, Hebei University of Technology. _Feb. 2024 – July 2025_
+- **Global Professor.** Department of Physics, The University of Arizona. _Nov. 2023 – July 2025_
 - **Adjunct Faculty.** Physics & Astronomy Department, Pima Community College. _June 2020 – Dec. 2023_
 
 🔗 [See full Curriculum Vitae.](https://ajsteinmetz.github.io/cv.html)
