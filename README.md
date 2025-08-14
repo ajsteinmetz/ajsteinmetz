@@ -40,7 +40,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 🔗 [See full publication list.](https://ajsteinmetz.github.io/publications.html)
 
-### Current Teaching ✏️
+### Recent Teaching ✏️
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
