@@ -19,7 +19,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Employment ⚒
 
-- **Academic Professional,** School of Physics, Georgia Tech, Jan 2026 (eff.)
+- **Academic Professional,** School of Physics, Georgia Tech, Jan 2026
 - **Global Professor,** Arizona College of Technology, Hebei University of Technology, Feb 2024 – Jul 2025
 - **Global Professor,** Department of Physics, The University of Arizona, Nov 2023 – Jul 2025
 - **Adjunct Faculty,** Physics & Astronomy Department, Pima Community College, Jun 2020 – Dec 2023
@@ -44,8 +44,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
-| PHYS 371   | Quantum Theory                    | In-person       | 1             | 75            | UA/ACT      | Spring 2025    |
-| PHYS 381   | Methods in Exp. Physics I         | In-person       | 2             | 67            | UA/ACT      | Spring 2025    |
+| PHYS 2212   | Principles of Physics II         | In-person       | 1             | TBD           | GT          | Spring 2026    |
 
 🔗 [See full teaching record.](https://ajsteinmetz.github.io/teaching.html)
 
