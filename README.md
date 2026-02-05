@@ -44,7 +44,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 | Course #   | Course Title                      | Delivery Method | # of Sections | # of Students | Institution | Semester       |
 |------------|-----------------------------------|-----------------|---------------|---------------|-------------|----------------|
-| PHYS 2212   | Principles of Physics II         | In-person       | 1             | TBD           | GT          | Spring 2026    |
+| PHYS 2212   | Principles of Physics II         | In-person       | 1             | 163           | GT          | Spring 2026    |
 
 🔗 [See full teaching record.](https://ajsteinmetz.github.io/teaching.html)
 
