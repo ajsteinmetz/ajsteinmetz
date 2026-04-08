@@ -47,7 +47,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 | PHYS 4321/2 | Advanced Lab I/II                | In-person       | 2             | TBD           | GT          | Fall   2026    |
 | PHYS 4604   | Professional Development         | In-person       | 1             | TBD           | GT          | Fall   2026    |
 | GT 1000     | First-Year Seminar               | In-person       | 1             | TBD           | GT          | Fall   2026    |
-| PHYS 2212   | Principles of Physics II         | In-person       | 1             | 163           | GT          | Fall   2026    |
+| PHYS 2212   | Principles of Physics II         | In-person       | 1             | 163           | GT          | Spring 2026    |
 
 🔗 [See full teaching record.](https://ajsteinmetz.github.io/teaching.html)
 
