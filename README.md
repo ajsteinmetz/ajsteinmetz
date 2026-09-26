@@ -1,60 +1,36 @@
 ### Hi there 👋 I'm Andrew James Steinmetz, a physicist! 🔭
 
-I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic moments.
+I'm an Academic Professional in the [School of Physics at Georgia Tech](https://physics.gatech.edu/user/andrew-steinmetz). I study ⚛ quantum mechanics, 🌌 cosmology, ⚡ electromagnetism, and 🧲 magnetic moments, and I teach physics courses at the undergraduate level.
 
-- **Website:** [https://ajsteinmetz.github.io/](https://ajsteinmetz.github.io/)
-- **ORCID:** <a
-  id="cy-effective-orcid-url"
-  class="underline"
-  href="https://orcid.org/0000-0001-5474-2649"
-  target="orcid.widget"
-  rel="me noopener noreferrer"
-  style="vertical-align: top">
-  <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-  0000-0001-5474-2649
-</a>
+🔗 [Website](https://ajsteinmetz.github.io/) · [CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf) · [ORCID](https://orcid.org/0000-0001-5474-2649) · [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) · [INSPIRE-HEP](https://inspirehep.net/authors/1796313) · [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
 
-### Employment ⚒
+### Courses ✏️
 
-- **Academic Professional,** School of Physics, Georgia Tech, Jan 2026&ndash;present
-- **Global Professor,** Arizona College of Technology, Hebei University of Technology, Feb 2024&ndash;Jun 2025
-- **Global Professor,** Department of Physics, University of Arizona, Nov 2023&ndash;Jun 2025
-- **Adjunct Faculty,** Physics & Astronomy Department, Pima Community College, Jun 2020&ndash;Dec 2023
+Course materials for my Georgia Tech classes:
 
-🔗 [See full Curriculum Vitae.](https://ajsteinmetz.github.io/cv.html)
+- [PHYS 4321/2: Advanced Lab I/II](https://github.com/ajsteinmetz/gt-phys-4321)
+- [PHYS 4604: Professional Development](https://github.com/ajsteinmetz/gt-phys-4604)
+- [GT 1000: First-Year Seminar](https://github.com/ajsteinmetz/gt-gt-1000)
 
-### Education 🍎
+🔗 [Full teaching record](https://ajsteinmetz.github.io/teaching.html)
 
-- **Ph.D.** in Physics, University of Arizona, 2023
-- **B.S.** in Physics, University of Arizona, 2014
-- **B.S.** in Chemical Engineering, University of Arizona, 2014
+### Code for Papers 📚
 
-### Recent Publications 📚
+Each repository holds the source, figures, and calculations for a paper.
 
-* Rafelski, J., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fusion-insights) Science of Nuclear Fusion: Insights and Ideas. Submitted to <i>Particles</i> (2026). [10.48550/arXiv.2609.01366](https://doi.org/10.48550/arXiv.2609.01366)
-* Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and plasma in cosmological evolution. <i>Eur. Phys. J. Spec. Top.</i> 234, 1125&ndash;1329 (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w)
-* 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. Short note on spin magnetization in QGP. <i>Eur. Phys. J. Spec. Top.</i> 234, 2919&ndash;2929 (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
+- [fusion-insights](https://github.com/ajsteinmetz/fusion-insights): Science of Nuclear Fusion: Insights and Ideas. Submitted to <i>Particles</i> (2026).
+- [short-note-qgp](https://github.com/ajsteinmetz/short-note-qgp): Short note on spin magnetization in QGP. <i>Eur. Phys. J. Spec. Top.</i> (2025).
+- [thesis-collab-project](https://github.com/ajsteinmetz/thesis-collab-project): Quarks to Cosmos: Particles and plasma in cosmological evolution. <i>Eur. Phys. J. Spec. Top.</i> (2025).
+- [fermi-distribution](https://github.com/ajsteinmetz/fermi-distribution): Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. <i>Int. J. Theor. Phys.</i> (2024).
+- [fritzsch-manuscript](https://github.com/ajsteinmetz/fritzsch-manuscript): Dynamic Flavor Mixing Through Transition Moments. <i>Harald Fritzsch Memorial Volume</i> (2024).
+- [neutrino-transition-moments](https://github.com/ajsteinmetz/neutrino-transition-moments): Dynamic fermion flavor mixing through transition dipole moments. <i>Int. J. Mod. Phys. A</i> (2023).
+- [plasma-partition](https://github.com/ajsteinmetz/plasma-partition): Matter-antimatter origin of cosmic magnetism. <i>Phys. Rev. D</i> (2023).
+- [a-short-survey](https://github.com/ajsteinmetz/a-short-survey): A Short Survey of Matter-Antimatter Evolution in the Primordial Universe. <i>Universe</i> (2023).
+- [thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz): Modern Topics in Relativistic Spin Dynamics and Magnetism. Ph.D. dissertation (2023).
+- [magnetic-dipole-moment](https://github.com/ajsteinmetz/magnetic-dipole-moment): Magnetic dipole moment in relativistic quantum mechanics. <i>Eur. Phys. J. A</i> (2019).
 
-🔗 [See full publication list.](https://ajsteinmetz.github.io/publications.html)
+🔗 [Full publication list](https://ajsteinmetz.github.io/publications.html)
 
-### Recent Teaching ✏️
+### Elsewhere 🎉
 
-| Course #    | Course Title                     | Delivery Method | # of Sections | # of Students | Institution | Semester       |
-|-------------|----------------------------------|-----------------|---------------|---------------|-------------|----------------|
-| PHYS 4321/2 | Advanced Lab I/II                | In-person       | 2             | 17            | GT          | Fall   2026    |
-| PHYS 4604   | Professional Development         | In-person       | 1             | 60            | GT          | Fall   2026    |
-| GT 1000     | First-Year Seminar               | In-person       | 1             | 15            | GT          | Fall   2026    |
-| PHYS 2212   | Principles of Physics II         | In-person       | 1             | 163           | GT          | Spring 2026    |
-
-🔗 [See full teaching record.](https://ajsteinmetz.github.io/teaching.html)
-
-### More Links 🔗
-
-- 🧪 **Science:** [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
-- 🎉 **Social & Fun:** [Bluesky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
-- **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
-
-![](https://komarev.com/ghpvc/?username=ajsteinmetz&color=blue)
+[Bluesky](https://bsky.app/profile/ajsteinmetz.com) · [AstroBin](https://www.astrobin.com/users/djinn/) · [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) · [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) · My Erd&#337;s number is 5 [(source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017).
