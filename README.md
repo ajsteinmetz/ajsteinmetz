@@ -18,16 +18,18 @@ Course materials for my Georgia Tech classes:
 
 Each repository holds the source, figures, and calculations for a paper.
 
-- [fusion-insights](https://github.com/ajsteinmetz/fusion-insights): Science of Nuclear Fusion: Insights and Ideas. Submitted to <i>Particles</i> (2026).
-- [short-note-qgp](https://github.com/ajsteinmetz/short-note-qgp): Short note on spin magnetization in QGP. <i>Eur. Phys. J. Spec. Top.</i> (2025).
-- [thesis-collab-project](https://github.com/ajsteinmetz/thesis-collab-project): Quarks to Cosmos: Particles and plasma in cosmological evolution. <i>Eur. Phys. J. Spec. Top.</i> (2025).
-- [fermi-distribution](https://github.com/ajsteinmetz/fermi-distribution): Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. <i>Int. J. Theor. Phys.</i> (2024).
-- [fritzsch-manuscript](https://github.com/ajsteinmetz/fritzsch-manuscript): Dynamic Flavor Mixing Through Transition Moments. <i>Harald Fritzsch Memorial Volume</i> (2024).
-- [neutrino-transition-moments](https://github.com/ajsteinmetz/neutrino-transition-moments): Dynamic fermion flavor mixing through transition dipole moments. <i>Int. J. Mod. Phys. A</i> (2023).
-- [plasma-partition](https://github.com/ajsteinmetz/plasma-partition): Matter-antimatter origin of cosmic magnetism. <i>Phys. Rev. D</i> (2023).
-- [a-short-survey](https://github.com/ajsteinmetz/a-short-survey): A Short Survey of Matter-Antimatter Evolution in the Primordial Universe. <i>Universe</i> (2023).
+<!-- BEGIN GENERATED: papers -->
+- [fusion-insights](https://github.com/ajsteinmetz/fusion-insights): Science of Nuclear Fusion: Insights and Ideas. Submitted to *Particles* (2026).
+- [short-note-qgp](https://github.com/ajsteinmetz/short-note-qgp): Short note on spin magnetization in QGP. *Eur. Phys. J. Spec. Top.* (2025).
+- [thesis-collab-project](https://github.com/ajsteinmetz/thesis-collab-project): Quarks to Cosmos: Particles and plasma in cosmological evolution. *Eur. Phys. J. Spec. Top.* (2025).
+- [fermi-distribution](https://github.com/ajsteinmetz/fermi-distribution): Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. *Int. J. Theor. Phys.* (2024).
+- [fritzsch-manuscript](https://github.com/ajsteinmetz/fritzsch-manuscript): Dynamic Flavor Mixing Through Transition Moments. *Harald Fritzsch Memorial Volume* (2024).
+- [neutrino-transition-moments](https://github.com/ajsteinmetz/neutrino-transition-moments): Dynamic fermion flavor mixing through transition dipole moments. *Int. J. Mod. Phys. A* (2023).
+- [plasma-partition](https://github.com/ajsteinmetz/plasma-partition): Matter-antimatter origin of cosmic magnetism. *Phys. Rev. D* (2023).
+- [a-short-survey](https://github.com/ajsteinmetz/a-short-survey): A Short Survey of Matter-Antimatter Evolution in the Primordial Universe. *Universe* (2023).
 - [thesis-ajsteinmetz](https://github.com/ajsteinmetz/thesis-ajsteinmetz): Modern Topics in Relativistic Spin Dynamics and Magnetism. Ph.D. dissertation (2023).
-- [magnetic-dipole-moment](https://github.com/ajsteinmetz/magnetic-dipole-moment): Magnetic dipole moment in relativistic quantum mechanics. <i>Eur. Phys. J. A</i> (2019).
+- [magnetic-dipole-moment](https://github.com/ajsteinmetz/magnetic-dipole-moment): Magnetic dipole moment in relativistic quantum mechanics. *Eur. Phys. J. A* (2019).
+<!-- END GENERATED: papers -->
 
 🔗 [Full publication list](https://ajsteinmetz.github.io/publications.html)
 
