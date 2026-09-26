@@ -8,9 +8,9 @@ I'm an Academic Professional in the [School of Physics at Georgia Tech](https://
 
 Course materials for my Georgia Tech classes:
 
-- [PHYS 4321/2: Advanced Lab I/II](https://github.com/ajsteinmetz/gt-phys-4321)
-- [PHYS 4604: Professional Development](https://github.com/ajsteinmetz/gt-phys-4604)
-- [GT 1000: First-Year Seminar](https://github.com/ajsteinmetz/gt-gt-1000)
+- [PHYS 4321/4322: Advanced Lab I/II](https://ajsteinmetz.github.io/gt-phys-4321/) &middot; [GitHub](https://github.com/ajsteinmetz/gt-phys-4321)
+- [PHYS 4604: Professional Development](https://ajsteinmetz.github.io/gt-phys-4604/) &middot; [GitHub](https://github.com/ajsteinmetz/gt-phys-4604)
+- [GT 1000: First-Year Seminar](https://ajsteinmetz.github.io/gt-gt-1000/) &middot; [GitHub](https://github.com/ajsteinmetz/gt-gt-1000)
 
 🔗 [Full teaching record](https://ajsteinmetz.github.io/teaching.html)
 
