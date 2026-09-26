@@ -2,7 +2,7 @@
 
 I'm an Academic Professional in the [School of Physics at Georgia Tech](https://physics.gatech.edu/user/andrew-steinmetz). I study ⚛ quantum mechanics, 🌌 cosmology, ⚡ electromagnetism, and 🧲 magnetic moments, and I teach physics courses at the undergraduate level.
 
-🔗 [Website](https://ajsteinmetz.github.io/) · [CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf) · [ORCID](https://orcid.org/0000-0001-5474-2649) · [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) · [INSPIRE-HEP](https://inspirehep.net/authors/1796313) · [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
+🔗 [Website](https://ajsteinmetz.github.io/) &middot; [CV (PDF)](https://github.com/ajsteinmetz/cv-ajsteinmetz/raw/main/cv_ajsteinmetz.pdf) &middot; [ORCID](https://orcid.org/0000-0001-5474-2649) &middot; [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) &middot; [INSPIRE-HEP](https://inspirehep.net/authors/1796313) &middot; [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
 
 ### Courses ✏️
 
@@ -33,4 +33,4 @@ Each repository holds the source, figures, and calculations for a paper.
 
 ### Elsewhere 🎉
 
-[Bluesky](https://bsky.app/profile/ajsteinmetz.com) · [AstroBin](https://www.astrobin.com/users/djinn/) · [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) · [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) · My Erd&#337;s number is 5 [(source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017).
+[Bluesky](https://bsky.app/profile/ajsteinmetz.com) &middot; [AstroBin](https://www.astrobin.com/users/djinn/) &middot; [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) &middot; [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/) &middot; My Erd&#337;s number is 5 [(source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017).
