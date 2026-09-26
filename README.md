@@ -19,10 +19,10 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 
 ### Employment ⚒
 
-- **Academic Professional,** School of Physics, Georgia Tech, Jan 2026 - present
-- **Global Professor,** Arizona College of Technology, Hebei University of Technology, Feb 2024 – Jun 2025
-- **Global Professor,** Department of Physics, University of Arizona, Nov 2023 – Jun 2025
-- **Adjunct Faculty,** Physics & Astronomy Department, Pima Community College, Jun 2020 – Dec 2023
+- **Academic Professional,** School of Physics, Georgia Tech, Jan 2026&ndash;present
+- **Global Professor,** Arizona College of Technology, Hebei University of Technology, Feb 2024&ndash;Jun 2025
+- **Global Professor,** Department of Physics, University of Arizona, Nov 2023&ndash;Jun 2025
+- **Adjunct Faculty,** Physics & Astronomy Department, Pima Community College, Jun 2020&ndash;Dec 2023
 
 🔗 [See full Curriculum Vitae.](https://ajsteinmetz.github.io/cv.html)
 
@@ -35,8 +35,8 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 ### Recent Publications 📚
 
 * Rafelski, J., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/fusion-insights) Science of Nuclear Fusion: Insights and Ideas. Submitted to <i>Particles</i> (2026). [10.48550/arXiv.2609.01366](https://doi.org/10.48550/arXiv.2609.01366)
-* Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and Plasma in Cosmological evolution. <i>Eur. Phys. J. Spec. Top.</i> 234, 1125–1329 (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w)
-* 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. Short Note on Spin Magnetization in QGP. <i>Eur. Phys. J. Spec. Top.</i> 234, 2919–2929 (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
+* Rafelski, J., Birrell, J., Grayson, C., 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/thesis-collab-project), Yang, C. T. Quarks to Cosmos: Particles and plasma in cosmological evolution. <i>Eur. Phys. J. Spec. Top.</i> 234, 1125&ndash;1329 (2025). [10.1140/epjs/s11734-025-01470-w](https://doi.org/10.1140/epjs/s11734-025-01470-w)
+* 🌟[Steinmetz, A.](https://github.com/ajsteinmetz/short-note-qgp), Rafelski, J. Short note on spin magnetization in QGP. <i>Eur. Phys. J. Spec. Top.</i> 234, 2919&ndash;2929 (2025). [10.1140/epjs/s11734-025-01625-9](https://doi.org/10.1140/epjs/s11734-025-01625-9)
 
 🔗 [See full publication list.](https://ajsteinmetz.github.io/publications.html)
 
@@ -54,7 +54,7 @@ I study ⚛ Quantum mechanics 🌌 Cosmology ⚡ Electromagnetism 🧲 Magnetic 
 ### More Links 🔗
 
 - 🧪 **Science:** [INSPIRE-HEP](https://inspirehep.net/authors/1796313) 🔗 [Google Scholar](https://scholar.google.com/citations?user=fJBK1GIAAAAJ) 🔗 [arXiv](https://arxiv.org/a/steinmetz_a_1.html)
-- 🎉 **Social & Fun:** [BlueSky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
+- 🎉 **Social & Fun:** [Bluesky](https://bsky.app/profile/ajsteinmetz.com) 🔗 [AstroBin](https://www.astrobin.com/users/djinn/) 🔗 [Wikipedia Userpage](https://en.wikipedia.org/wiki/User:CosmologicalDefect) 🔗 [LinkedIn](https://www.linkedin.com/in/ajsteinmetz/)
 - **My Erdős number is 5.** [(Source)](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1443426&target=189017)
 
 ![](https://komarev.com/ghpvc/?username=ajsteinmetz&color=blue)
