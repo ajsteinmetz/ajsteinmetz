@@ -1,0 +1,5 @@
+# Outputs rendered into this repo by data-ajsteinmetz/build.py (see that repo's README).
+public: true
+
+outputs:
+  - {output: README.md, blocks: true}
