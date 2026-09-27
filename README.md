@@ -19,7 +19,7 @@ Course materials for my Georgia Tech classes:
 Each repository holds the source, figures, and calculations for a paper.
 
 <!-- BEGIN GENERATED: papers -->
-- [fusion-insights](https://github.com/ajsteinmetz/fusion-insights): Science of Nuclear Fusion: Insights and Ideas. Submitted to *Particles* (2026).
+- [fusion-insights](https://github.com/ajsteinmetz/fusion-insights): Science of Nuclear Fusion: Insights and Ideas. *Particles*, in press (2026).
 - [short-note-qgp](https://github.com/ajsteinmetz/short-note-qgp): Short note on spin magnetization in QGP. *Eur. Phys. J. Spec. Top.* (2025).
 - [thesis-collab-project](https://github.com/ajsteinmetz/thesis-collab-project): Quarks to Cosmos: Particles and plasma in cosmological evolution. *Eur. Phys. J. Spec. Top.* (2025).
 - [fermi-distribution](https://github.com/ajsteinmetz/fermi-distribution): Fermi-Dirac Integrals in Degenerate Regimes: Novel Asymptotic Expansion. *Int. J. Theor. Phys.* (2024).
